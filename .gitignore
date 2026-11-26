@@ -1,0 +1,23 @@
+# Keil build output and local editor settings
+/MDK-ARM/4.3.2/
+/MDK-ARM/*.uvguix.*
+/MDK-ARM/*.uvoptx
+/MDK-ARM/DebugConfig/
+/MDK-ARM/EventRecorderStub.scvd
+/.mxproject
+/keilkilll.bat
+
+# CMSIS components not used by this STM32F1 project
+/Drivers/CMSIS/Core/
+/Drivers/CMSIS/Core_A/
+/Drivers/CMSIS/docs/
+/Drivers/CMSIS/DSP/
+/Drivers/CMSIS/Lib/
+/Drivers/CMSIS/NN/
+/Drivers/CMSIS/RTOS/
+/Drivers/CMSIS/RTOS2/
+/Drivers/CMSIS/Device/ST/STM32F1xx/Source/
+
+# Python cache
+__pycache__/
+*.pyc
